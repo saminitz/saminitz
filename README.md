@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saminitz
 - 👀 I’m interested in Automation and Realtime Network Applications
-- 🌱 I’m currently learning C#, JavaScript and SQL
+- 🌱 I have knowledge in C++, C#, JavaScript and SQL and still learning them
 - 📫 You can reach me on Discord: https://discord.com/users/317214633406758917
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
