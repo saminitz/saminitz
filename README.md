@@ -27,10 +27,11 @@
 
 **Languages and Tools:**
 
-<code><img height="20" alt=".NET" src="https://github.com/github/explore/blob/a87affe848d686a8c2acf57cabd282550eb750b2/topics/dotnet/dotnet.png"></code>
-<code><img height="20" alt="C#" src="https://github.com/github/explore/blob/a87affe848d686a8c2acf57cabd282550eb750b2/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="JavaScript" src="https://github.com/github/explore/blob/a87affe848d686a8c2acf57cabd282550eb750b2/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="Visual Studio Code" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true"></code>
+<code><img height="25" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain.svg"></code>
+<code><img height="25" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"></code>
+<code><img height="25" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="25" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></code>
 <br>
 <br>
 
