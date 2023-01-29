@@ -22,7 +22,7 @@
 
 ### I'm Software Engineer, a passionate self-taught Front-end, Back-end Web Developer from Germany.
 - 🔭 I’m currently working with ASP.NET, SQL and JavaScript. However, I focus on Back-end development.
-- 🌱 I’m currently learning Python and dealing with real-time applications
+- 🌱 I’m currently learning Java as Backend Developer
 <br>
 
 **Languages and Tools:**
