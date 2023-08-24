@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/saminitz" />
-</p>
-
-<p align="center">
 <br>
 <a href="https://www.instagram.com/saminitz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://discord.com/users/317214633406758917"><img src="https://img.shields.io/badge/discord-%235865f2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
