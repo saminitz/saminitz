@@ -8,9 +8,10 @@
 
 <p align="center">
 <br>
-<a href="https://www.instagram.com/saminitz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:samuel.nitzsche+github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://t.me/saminitz"><img src="https://img.shields.io/badge/telegram-%23229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
 <a href="https://discord.com/users/317214633406758917"><img src="https://img.shields.io/badge/discord-%235865f2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
-<a href="mailto:samuel.nitzsche+github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.instagram.com/saminitz/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <br>
