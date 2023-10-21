@@ -16,18 +16,22 @@
 <br/>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I'm Software Engineer, a passionate self-taught Front-end, Back-end Web Developer from Germany.
-- 🔭 I’m currently working with ASP.NET, SQL and JavaScript. However, I focus on Back-end development.
+### I'm a Software Engineer, a passionate self-taught Front-end, Back-end Web Developer from Germany.
+- 🔭 I’m currently working with Spring Boot, Java, React, Typescript and SQL. However, I focus on Back-end development.
 - 🌱 I’m currently learning Java as Backend Developer
 <br>
 
-**Languages and Tools:**
+**Languages I know and Tools I'm using:**
 
-<code><img height="25" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain.svg"></code>
+<code><img height="25" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original.svg"></code>
 <code><img height="25" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"></code>
+<code><img height="25" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg"></code>
+<code><img height="25" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"></code>
 <code><img height="25" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="25" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"></code>
+<code><img height="25" alt="React" title="React" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg"></code>
 <code><img height="25" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></code>
+<code><img height="25" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"></code>
 <br>
 <br>
 
