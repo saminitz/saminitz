@@ -16,7 +16,7 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I'm a Software Engineer, a passionate self-taught Front-end, Back-end Web Developer from Germany.
+### Hi 🙋🏽‍♂️, I'm a passionate Front-end, Back-end Software Engineer from Germany.
 - 🔭 I’m currently working with Spring Boot, Java, React, Typescript and SQL. However, I focus on Back-end development.
 - 🌱 I’m currently learning Java as Backend Developer
 <br>
