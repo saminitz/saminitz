@@ -23,15 +23,15 @@
 
 **Languages I know and Tools I'm using:**
 
-<code><img height="40" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="40" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="40" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-<code><img height="40" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="40" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="40" alt="React" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="40" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="35" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"></code>
+<code><img height="35" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="35" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
+<code><img height="35" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="35" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="35" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="35" alt="React" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+<code><img height="35" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="35" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <br>
 <br>
 
