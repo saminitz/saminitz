@@ -23,15 +23,15 @@
 
 **Languages I know and Tools I'm using:**
 
-<code><img height="25" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="25" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"></code>
-<code><img height="25" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/spring/spring-original.svg"></code>
-<code><img height="25" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"></code>
-<code><img height="25" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg"></code>
-<code><img height="25" alt="React" title="React" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg"></code>
-<code><img height="25" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></code>
-<code><img height="25" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="40" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"></code>
+<code><img height="40" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
+<code><img height="40" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="40" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" alt="React" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+<code><img height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="40" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <br>
 <br>
 
