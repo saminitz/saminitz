@@ -16,22 +16,27 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Hi 🙋🏽‍♂️, I'm a passionate Front-end, Back-end Software Engineer from Germany.
+### Hi 🙋🏽‍♂️, I'm a passionate Full-Stack Software Engineer from Germany.
 - 🔭 I’m currently working with Spring Boot, Java, React, Typescript and SQL. However, I focus on Back-end development.
-- 🌱 I’m currently learning Java as Backend Developer
+- 🌱 I’m currently exploring self hosting and DevOps
 <br>
 
 **Languages I know and Tools I'm using:**
 
-<code><img height="35" alt=".NET" title=".NET" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"></code>
-<code><img height="35" alt="C#" title="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="35" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
-<code><img height="35" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="35" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="35" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="35" alt="React" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="35" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="35" alt="Visual Studio" title="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="40" alt="Jet Brains" title="Visual Studio" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"></code>
+<code><img height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<br>
+<br>
+<code><img height="40" alt="Spring Boot" title="Spring Boot" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></code>
+<code><img height="40" alt="Java" title="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="40" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" alt="TypeScript" title="TypeScript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" alt="React" title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+<br>
+<br>
+<code><img height="40" alt="Docker" title="React" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img height="40" alt="Docker" title="React" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"></code>
+<code><img height="40" alt="Docker" title="React" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <br>
 <br>
 
