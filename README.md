@@ -9,7 +9,6 @@
 <p align="center">
 <br>
 <a href="mailto:samuel.nitzsche+github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://t.me/saminitz"><img src="https://img.shields.io/badge/telegram-%23229ED9.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
 <a href="https://discord.com/users/317214633406758917"><img src="https://img.shields.io/badge/discord-%235865f2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
 </p>
 
