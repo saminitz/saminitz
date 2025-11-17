@@ -43,8 +43,3 @@
 ### :zap: Github Stats
 
 <p>&nbsp;<img align="center" src="https://anuraghazra-github-readme-stats-bay.vercel.app/api?username=saminitz&show_icons=true&theme=tokyonight&title_color=6a9bec&text_color=38bcad&bg_color=1a1b27&locale=en" alt="saminitz" /></p>
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
